@@ -1,0 +1,3 @@
+[submodule "HPCS-HR-PANEL"]
+    path = HPCS-HR-PANEL
+    url = <URL_TO_SUBMODULE_REPO>
